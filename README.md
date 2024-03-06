@@ -1,4 +1,4 @@
-[GrowthBook](https://www.growthbook.io/) developer environment using [Nix](https://nixos.org/) package manager.
+# [GrowthBook](https://www.growthbook.io/) developer environment setup with the [Nix](https://nixos.org/) package manager
 
 ## Installation
 
