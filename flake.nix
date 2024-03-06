@@ -1,5 +1,5 @@
 {
-  description = "Growthbook dev environment";
+  description = "GrowthBook dev environment";
 
   # Nixpkgs / NixOS version to use.
   inputs.nixpkgs.url = "nixpkgs/nixos-unstable";
